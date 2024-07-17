@@ -1,0 +1,17 @@
+service_id,service_description
+145-Blocks-Weekday-52,Weekday
+145-Blocks-Weekday-52-SDon,Weekday
+145-Blocks-Weekday-52-SDon-1101100,Mon Tue Thu Fri
+145-Blocks-Weekday-52-SDon-0010000,Wed
+145-Blocks-Weekday-52-SDon-0001000,Thu
+145-Blocks-Weekday-52-SDon-0100000,Tue
+145-Blocks-Weekday-52-SDon-1011100,Mon Wed Thu Fri
+145-Blocks-Weekday-52-SDon-0010100,Wed Fri
+145-Blocks-Weekday-52-SDon-1101000,Mon Tue Thu
+145-Blocks-Weekday-52-SDon-1110100,Mon Tue Wed Fri
+145-Blocks-Weekday-52-SDon-1100100,Mon Tue Fri
+145-Blocks-Weekday-52-SDon-0011000,Wed Thu
+145-Blocks-Weekday-52-SDon-1000000,Mon
+145-Blocks-Weekday-52-SDon-0101000,Tue Thu
+145-Blocks-Saturday-52,Saturday
+145-Blocks-Sunday-52,Sunday

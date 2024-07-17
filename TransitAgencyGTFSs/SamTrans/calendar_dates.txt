@@ -1,0 +1,16 @@
+service_id,date,exception_type
+145-Blocks-Weekday-52,20240527,2
+145-Blocks-Weekday-52-SDon-1101100,20240527,2
+145-Blocks-Weekday-52-SDon-0010000,20240527,2
+145-Blocks-Weekday-52-SDon,20240527,2
+145-Blocks-Weekday-52-SDon-0001000,20240527,2
+145-Blocks-Weekday-52-SDon-0100000,20240527,2
+145-Blocks-Weekday-52-SDon-1011100,20240527,2
+145-Blocks-Weekday-52-SDon-0010100,20240527,2
+145-Blocks-Weekday-52-SDon-1101000,20240527,2
+145-Blocks-Weekday-52-SDon-1110100,20240527,2
+145-Blocks-Weekday-52-SDon-1100100,20240527,2
+145-Blocks-Weekday-52-SDon-0011000,20240527,2
+145-Blocks-Weekday-52-SDon-1000000,20240527,2
+145-Blocks-Weekday-52-SDon-0101000,20240527,2
+145-Blocks-Sunday-52,20240527,1
